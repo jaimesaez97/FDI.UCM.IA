@@ -1,0 +1,11 @@
+1. Hoja 7:
+	- ¿Qué hay que hacer para que PROLOG te produzca salidas? Es decir, la diferencia entre ej1 y ej2 es que en ej1 te pone persona = ..., numero = .... ¿Cómo puedo conseguir eso en ej2?
+	- EJERCICIO 2: ¿Qué esta ocurriendo?	
+			?- concordancia(I,T,P,N,PP,NP,[yoamaré],[]).
+			primeraprimerasingularsingular
+			I = amar,
+			T = futuro,
+			P = PP, PP = primera,
+			N = NP, NP = singular .
+
+	- 
