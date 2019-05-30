@@ -8,4 +8,13 @@
 			P = PP, PP = primera,
 			N = NP, NP = singular .
 
-	- 
+2. Hoja 5:
+    - EJERCICIO 1: ¿está bien hecho? ¿Cómo se infiere última consulta?
+    - EJERCICIO 2: ¿bienlas transitivas?
+    - EJERCICIO 3: ¿está bien?
+    - EJERCICIO 4: ¿bien hecho? ¿Qué significa?
+    
+3. Hoja 6
+    - EJERCICIO 2: ¿Cómo sé qué variables son más relevantes? ¿Las que están arriba,no?
+    - EJERCICIO 3: ¿Cómo sé cuáles son?
+    - EJERCICIO 4: ¿Cómo se saca la PRECISIÓN GLOBAL? ¿Cómo se cuentan los VERDADEROS NEGATIVOS?
