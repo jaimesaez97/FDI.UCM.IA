@@ -18,3 +18,7 @@
     - EJERCICIO 2: ¿Cómo sé qué variables son más relevantes? ¿Las que están arriba,no?
     - EJERCICIO 3: ¿Cómo sé cuáles son?
     - EJERCICIO 4: ¿Cómo se saca la PRECISIÓN GLOBAL? ¿Cómo se cuentan los VERDADEROS NEGATIVOS?
+
+4. Jun18
+	- EJERCICIO 1: ¿está bien?
+	- EJERCICIO 2: ¿Está bien pasado de la tabla al gráfico?
