@@ -1,24 +1,7 @@
-1. Hoja 7:
-	- ¿Qué hay que hacer para que PROLOG te produzca salidas? Es decir, la diferencia entre ej1 y ej2 es que en ej1 te pone persona = ..., numero = .... ¿Cómo puedo conseguir eso en ej2?
-	- EJERCICIO 2: ¿Qué esta ocurriendo?	
-			?- concordancia(I,T,P,N,PP,NP,[yoamaré],[]).
-			primeraprimerasingularsingular
-			I = amar,
-			T = futuro,
-			P = PP, PP = primera,
-			N = NP, NP = singular .
-
-2. Hoja 5:
-    - EJERCICIO 1: ¿está bien hecho? ¿Cómo se infiere última consulta?
-    - EJERCICIO 2: ¿bienlas transitivas?
-    - EJERCICIO 3: ¿está bien?
-    - EJERCICIO 4: ¿bien hecho? ¿Qué significa?
-    
-3. Hoja 6
-    - EJERCICIO 2: ¿Cómo sé qué variables son más relevantes? ¿Las que están arriba,no?
-    - EJERCICIO 3: ¿Cómo sé cuáles son?
-    - EJERCICIO 4: ¿Cómo se saca la PRECISIÓN GLOBAL? ¿Cómo se cuentan los VERDADEROS NEGATIVOS?
+(1,2,3 apuntadas)
 
 4. Jun18
 	- EJERCICIO 1: ¿está bien?
 	- EJERCICIO 2: ¿Está bien pasado de la tabla al gráfico?
+	- EJERCICIO 3: ¿cómo se cuál usar para cada uno? yo entiendo que kNN solo se puede usar con variables NUMÉRICAS, y DT es mejor para relacionar un vector entrada con una salida.
+	- EJERCICIO 4: ¿cómo compruebo que Nombre es nombre? Porque al final va nombre + propiedad y poner todos los colores o todas las formas para asegurar que gris es propiedad igual es ineficiente.
