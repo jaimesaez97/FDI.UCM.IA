@@ -55,7 +55,7 @@
 	tiene_parte(X,Y):- tiene_parte(X,Z),t
 					   tiene_parte(Z,Y).
                    
-**¿Cómo es esta?**                   
+**¿Cómo es ésta?**                   
 
 	% ?- tiene_parte(elefante_circense,ropa).
 	tiene_parte(X,Y):- ?¿
@@ -89,11 +89,11 @@
 
 	% "¿El coche de Juan tiene batería?"
 	tiene_parte(X,Y):- tiene_parte(X,Z),
-					   tiene_parte(Z,Y).
+					   tiene_parte(Z,Y). 
 
 	% "¿El coche de Juan tiene un producto químico?"
 	tiene_parte(X,Y):- tiene_parte(X,Z),
-	es_un(Z,Y).
+					   es_un(Z,Y).
 
 ### 1.3. EJERCICIO 3
 
@@ -424,3 +424,7 @@ Este predicado prolog puede usarse combinado con *asserta* para evitar tener que
 			}.
 
 **¿Cómo compruebo que Nombre es correcto? Al final va nombre + propiedad y poner todos los colores o todas las formas para asegurar que gris es propiedad igual es ineficiente.**
+
+## 5. JUNIO 2015
+### 5.1. EJERCICIO 2
+

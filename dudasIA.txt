@@ -1,7 +1,10 @@
 (1,2,3 apuntadas)
 
 4. Jun18
-	- EJERCICIO 1: ¿está bien?
 	- EJERCICIO 2: ¿Está bien pasado de la tabla al gráfico?
 	- EJERCICIO 3: ¿cómo se cuál usar para cada uno? yo entiendo que kNN solo se puede usar con variables NUMÉRICAS, y DT es mejor para relacionar un vector entrada con una salida.
 	- EJERCICIO 4: ¿cómo compruebo que Nombre es nombre? Porque al final va nombre + propiedad y poner todos los colores o todas las formas para asegurar que gris es propiedad igual es ineficiente.
+
+5. Jun15 
+	- EJERCICIO 2: ¿Qué dignifica construir diccionario en forma de hechos Prolog?
+				 : ¿Actriz, Luis, Niños... se añaden al diccionario?
